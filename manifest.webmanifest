@@ -1,8 +1,0 @@
-{
-  "name": "FrostyChat v8",
-  "short_name": "FrostyChat",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#0b0d10",
-  "theme_color": "#5865f2"
-}
